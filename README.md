@@ -1,8 +1,10 @@
 # 42-Minitalk, by Maxime Rochedy
 
-This repository contains my implementation of **Minitalk**, a project completed during my studies at **École 42**. The objective of this project is to create a small data exchange program between a server and a client using Unix signals. This project was evaluated with a perfect score of **125/125**.
+This repository contains my implementation of **Minitalk**, a project completed during my studies at **École 42**. The objective of this project is to create a small data exchange program between a server and a client using Unix signals. This project was evaluated with a perfect score of **125/100**.
 
 In this repository, you'll find my implementation, which has been thoroughly reviewed by 3 other students. Although I have made every effort to ensure it is error-free, feel free to report any issues or suggest improvements!
+
+<img width="198" alt="125/100 grade" src="https://github.com/user-attachments/assets/708486c1-c045-40d6-ab0c-e5dc3650a50d">
 
 ## About the Project
 
